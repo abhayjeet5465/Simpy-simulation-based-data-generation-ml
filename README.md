@@ -60,7 +60,7 @@ The generated dataset is used to predict **average waiting time** using the foll
 - Support Vector Regression (SVR)
 - Random Forest Regressor
 - Gradient Boosting Regressor
-
+  
 ---
 
 ## Evaluation Metrics
@@ -85,7 +85,6 @@ The generated dataset is used to predict **average waiting time** using the foll
 Ensemble-based models significantly outperform linear models, as they are better suited to capture the non-linear behavior of queue-based systems.
 
 ---
-
 
 ---
 
